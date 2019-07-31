@@ -1,0 +1,19 @@
+{
+    "name": "shihab/contact",
+    "description": "A complete contact page that sends email",
+    "type": "library",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "shihab",
+            "email": "shihab.9921@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Shihab\\Contact\\": "src/"
+        }
+    }
+}
