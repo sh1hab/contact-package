@@ -1,6 +1,6 @@
 # contact-package
 
-issues:   https://img.shields.io/github/issues/sh1hab/contact-package
-forks:		https://img.shields.io/github/forks/sh1hab/contact-package
-stars:		https://img.shields.io/github/stars/sh1hab/contact-package
-license:	https://img.shields.io/github/license/sh1hab/contact-package
+[![Issues](https://img.shields.io/github/issues/shihab/contact-package.svg?style=flat-square)](https://github.com/shihab/contact-package/issues)
+[![Stars](	https://img.shields.io/github/stars/shihab/contact-package.svg?style=flat-square)](https://github.com/shihab/contact-package/stargazers)
+
+
